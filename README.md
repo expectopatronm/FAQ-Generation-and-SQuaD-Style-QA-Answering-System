@@ -1,24 +1,3 @@
-# Tech Challenge for Senior PreDevelopment AI Engineer - Intelligent Cockpit & Body (m/f/d)
-
-Thank you for your application for our vacant position as (Senior) PreDevelopment AI Engineer (https://cariad.technology/de/en/careers/jobdetail.jobid3398.html). We would like to invite you to a little tech challenge to further evaluate your skills. Therefore we prepared two use cases. 
-
-## General info
-* you have a two days' time frame to solve **one** of the use cases below
-* pick whichever use case you prefer
-* your two day's time frame starts when receiving the invite to the repository
-* you are free to use any local machine if applicable and available or any cloud solution of your preference, e.g. Google Colab
-* please submit your solution (code, data, result) in time - we will check the `git log -n 1` timestamp ;) - with a commit to the remote of this repository; you don't need to commit your model
-* the main focus will be on your approach and the reasoning behind it as well as the code quality and if applicable the scalability - not the actual performance of the model
-* please use Python for your solution as it's our teams preference
-* we will, if haven't already, setup a meeting to discuss your solution shortly after your two days' time frame
-
-## Use Case 2 - NLP
-In our team we started to experiment with Transformer (e.g T5) and Bert-like models. In this challenge you have to come up with your own use case in the car domain. By car domain we mean that the content of the data you use is directly related to cars. Examples might be customer reviews about cars or manuals. In most circumstances specific datasets in the car domain are not available other then the known open-source data sets (e.g. Squad).
-
-* Come up with your own car domain nlp use case
-* Generate car domain data for your use case synthetically or find alternative ways of getting data from additional sources. 
-* Use any type of Transformer or Bert-like model and ML framework you prefer (e.g. Tensorflow or Pytorch) to solve your use case
----
 ## Ideation
 * **Personalized Voice Sampling for Cockpit Interaction**: Change the voice of the cockpit speech assistant by sampling a user preferred voice.
 * **Single Handed Sign Language Recognition for Inclusitivity focussed Cockpit Interaction**: Enable speech impaired individuals to be able to interact with the cockpit voice assistant via sign language. 
