@@ -1,0 +1,38 @@
+A new vehicle must be broken in within the first 1,000 miles (1,500 km) so that all moving parts work smoothly together, which helps to increase the service life of the engine and other drive components. 
+
+Do not drive higher than two-thirds of the maximum permitted engine RPM during the first 600 miles (1,000 km) and do not use full acceleration. The engine can be increased RPM gradually during the next 300 miles (S00 km). 
+
+Your Audi is not designed for towing a trailer. Damage caused by towing a trailer is not covered by the warranty. 
+
+If possible, avoid driving through salt water because it increases the risk of corrosion. Use
+fresh water to clean any vehicle components that come into contact with salt water. 
+
+When driving on poor roads, over curbs, and on steep ramps, make sure that components
+that hang below the vehicle, such as the spoiler and exhaust system, are not struck because
+they could be damaged. This especially applies to vehicles with low ground clearance and vehicles that are heavily loaded. 
+
+The amount of noise produced by the vehicle can increase significantly when driving with a
+sporty style. Show respect to others around you and the environment with the way you operate your vehicle, especially at night. 
+
+Never turn off the engine before the vehicle has come to a complete stop. Switching it
+off before the vehicle has stopped may impair the function of the brake booster and
+power steering. You may need to use more force when braking or steering. Because you
+cannot brake and steer as you usually would, this could lead to accidents and serious injuries.
+
+If you leave the vehicle, switch the ignition off and take the vehicle key with you. If you
+do not do this, the engine could be started and electrical equipment such as the power
+windows could be activated. This can lead to serious injuries.
+
+For safety reasons, always park the vehicle with the selector lever in the P position. Otherwise, there is the risk that the vehicle could roll unintentionally. 
+
+If the engine has been under heavy load for an extended period of time, heat builds up in the engine compartment after the engine is switched off and there is a risk of damaging
+the engine. For this reason, let the engine run at idle for approximately two minutes before
+shutting it off.
+
+it may not be possible to start the engine under certain circumstances, for example, if the battery in the vehicle key is drained, if interference is affecting the key or if there is a system malfunction. 
+
+You can control if the engine will stop or not by reducing or increasing the amount of force you use to press the brake pedal. For example, if you only lightly press on the brake pedal in stop-andgo traffic or when turning, the engine will not switch off when the vehicle is stationary. If you press the brake pedal harder, the engine will switch off. 
+
+Start/stop system: deactivated. Please start engine manually. This message appears when specific conditions are not met during a Stop phase. The Start/Stop system will not be able to restart the engine. The engine must be started manually.
+
+Start/stop system: malfunction! Function unavailable. There is a malfunction in the Start/Stop system. Drive the vehicle to an authorized Audi dealer or authorized Service Facility as soon as possible to have the malfunction corrected.

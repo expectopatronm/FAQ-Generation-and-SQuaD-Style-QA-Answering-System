@@ -1,0 +1,1717 @@
+[
+  [
+    {
+      "context": "A new vehicle must be broken in within the first 1,000 miles (1,500 km) so that all moving parts work smoothly together, which helps to increase the service life of the engine and other drive components. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "must be broken in within the first 1,000 miles ( 1,500 km ) so that all moving parts work smoothly together , which helps to increase the service life of the engine and other drive components"
+            }
+          ],
+          "id": 0,
+          "question": "how many miles does a new vehicle take to break in??"
+        }
+      ]
+    },
+    {
+      "context": "A new vehicle must be broken in within the first 1,000 miles (1,500 km) so that all moving parts work smoothly together, which helps to increase the service life of the engine and other drive components. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "be broken in within the first 1,000 miles ( 1,500 km ) so that all moving parts work smoothly together , which helps to increase the service life of the engine and other drive components"
+            },
+            {
+              "answer_start": "",
+              "text": "broken in within the first 1,000 miles ( 1,500 km ) so that all moving parts work smoothly together , which helps to increase the service life of the engine and other drive components"
+            }
+          ],
+          "id": 0,
+          "question": "how many miles does a new vehicle need to be broken in??"
+        }
+      ]
+    },
+    {
+      "context": "A new vehicle must be broken in within the first 1,000 miles (1,500 km) so that all moving parts work smoothly together, which helps to increase the service life of the engine and other drive components. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "work smoothly together , which helps to increase the service life of the engine and other drive components"
+            },
+            {
+              "answer_start": "",
+              "text": "work smoothly together"
+            }
+          ],
+          "id": 0,
+          "question": "How does a new vehicle work??"
+        }
+      ]
+    },
+    {
+      "context": "A new vehicle must be broken in within the first 1,000 miles (1,500 km) so that all moving parts work smoothly together, which helps to increase the service life of the engine and other drive components. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "helps to increase the service life of the engine and other drive components"
+            },
+            {
+              "answer_start": "",
+              "text": "to increase the service life of the engine and other drive components"
+            }
+          ],
+          "id": 0,
+          "question": "What is the purpose of a new vehicle??"
+        }
+      ]
+    },
+    {
+      "context": "A new vehicle must be broken in within the first 1,000 miles (1,500 km) so that all moving parts work smoothly together, which helps to increase the service life of the engine and other drive components. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "increase the service life of the engine and other drive components"
+            }
+          ],
+          "id": 0,
+          "question": "How does a new vehicle break in??"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "context": "Do not drive higher than two-thirds of the maximum permitted engine RPM during the first 600 miles (1,000 km) and do not use full acceleration. The engine can be increased RPM gradually during the next 300 miles (S00 km). ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "Do not drive higher than two-thirds of the maximum permitted engine RPM during the first 600 miles ( 1,000 km ) and do not use full acceleration"
+            }
+          ],
+          "id": 0,
+          "question": "how much acceleration can be used??"
+        }
+      ]
+    },
+    {
+      "context": "Do not drive higher than two-thirds of the maximum permitted engine RPM during the first 600 miles (1,000 km) and do not use full acceleration. The engine can be increased RPM gradually during the next 300 miles (S00 km). ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "Do not drive higher than two-thirds of the maximum permitted engine RPM during the first 600 miles ( 1,000 km )"
+            }
+          ],
+          "id": 0,
+          "question": "how many miles does the engine travel??"
+        }
+      ]
+    },
+    {
+      "context": "Do not drive higher than two-thirds of the maximum permitted engine RPM during the first 600 miles (1,000 km) and do not use full acceleration. The engine can be increased RPM gradually during the next 300 miles (S00 km). ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "drive higher than two-thirds of the maximum permitted engine RPM during the first 600 miles ( 1,000 km )"
+            }
+          ],
+          "id": 0,
+          "question": "how much is the engine rpm??"
+        }
+      ]
+    },
+    {
+      "context": "Do not drive higher than two-thirds of the maximum permitted engine RPM during the first 600 miles (1,000 km) and do not use full acceleration. The engine can be increased RPM gradually during the next 300 miles (S00 km). ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "do not use full acceleration"
+            }
+          ],
+          "id": 0,
+          "question": "What is the best way to drive a car?"
+        }
+      ]
+    },
+    {
+      "context": "Do not drive higher than two-thirds of the maximum permitted engine RPM during the first 600 miles (1,000 km) and do not use full acceleration. The engine can be increased RPM gradually during the next 300 miles (S00 km). ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "use full acceleration"
+            }
+          ],
+          "id": 0,
+          "question": "What is the maximum speed of the engine?"
+        }
+      ]
+    },
+    {
+      "context": "Do not drive higher than two-thirds of the maximum permitted engine RPM during the first 600 miles (1,000 km) and do not use full acceleration. The engine can be increased RPM gradually during the next 300 miles (S00 km). ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "can be increased RPM gradually during the next 300 miles ( S00 km )"
+            },
+            {
+              "answer_start": "",
+              "text": "be increased RPM gradually during the next 300 miles ( S00 km )"
+            },
+            {
+              "answer_start": "",
+              "text": "increased RPM gradually during the next 300 miles ( S00 km )"
+            }
+          ],
+          "id": 0,
+          "question": "how much can the engine be increased??"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "context": "Your Audi is not designed for towing a trailer. Damage caused by towing a trailer is not covered by the warranty. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "is not designed for towing a trailer"
+            }
+          ],
+          "id": 0,
+          "question": "What is the warranty for a trailer?"
+        }
+      ]
+    },
+    {
+      "context": "Your Audi is not designed for towing a trailer. Damage caused by towing a trailer is not covered by the warranty. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "designed for towing a trailer"
+            }
+          ],
+          "id": 0,
+          "question": "What is the warranty for the Audi?"
+        }
+      ]
+    },
+    {
+      "context": "Your Audi is not designed for towing a trailer. Damage caused by towing a trailer is not covered by the warranty. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "towing a trailer"
+            },
+            {
+              "answer_start": "",
+              "text": "towing a trailer"
+            }
+          ],
+          "id": 0,
+          "question": "What is the warranty for a tow trailer?"
+        }
+      ]
+    },
+    {
+      "context": "Your Audi is not designed for towing a trailer. Damage caused by towing a trailer is not covered by the warranty. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "caused by towing a trailer"
+            }
+          ],
+          "id": 0,
+          "question": "What is the warranty for damage caused by towing a trailer?"
+        }
+      ]
+    },
+    {
+      "context": "Your Audi is not designed for towing a trailer. Damage caused by towing a trailer is not covered by the warranty. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "is not covered by the warranty"
+            }
+          ],
+          "id": 0,
+          "question": "is the trailer towing covered by the warranty??"
+        }
+      ]
+    },
+    {
+      "context": "Your Audi is not designed for towing a trailer. Damage caused by towing a trailer is not covered by the warranty. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "covered by the warranty"
+            }
+          ],
+          "id": 0,
+          "question": "is the damage caused by towing a trailer covered by the warranty??"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "context": "If possible, avoid driving through salt water because it increases the risk of corrosion. Use fresh water to clean any vehicle components that come into contact with salt water. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "avoid driving through salt water because it increases the risk of corrosion"
+            }
+          ],
+          "id": 0,
+          "question": "Why do you need to avoid driving through salt water??"
+        }
+      ]
+    },
+    {
+      "context": "If possible, avoid driving through salt water because it increases the risk of corrosion. Use fresh water to clean any vehicle components that come into contact with salt water. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "driving through salt water"
+            }
+          ],
+          "id": 0,
+          "question": "How do you avoid a car from corroding?"
+        }
+      ]
+    },
+    {
+      "context": "If possible, avoid driving through salt water because it increases the risk of corrosion. Use fresh water to clean any vehicle components that come into contact with salt water. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "increases the risk of corrosion"
+            }
+          ],
+          "id": 0,
+          "question": "How does salt water affect the vehicle??"
+        }
+      ]
+    },
+    {
+      "context": "If possible, avoid driving through salt water because it increases the risk of corrosion. Use fresh water to clean any vehicle components that come into contact with salt water. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "Use fresh water to clean any vehicle components that come into contact with salt water"
+            },
+            {
+              "answer_start": "",
+              "text": "to clean any vehicle components that come into contact with salt water"
+            }
+          ],
+          "id": 0,
+          "question": "How do you clean a car??"
+        }
+      ]
+    },
+    {
+      "context": "If possible, avoid driving through salt water because it increases the risk of corrosion. Use fresh water to clean any vehicle components that come into contact with salt water. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "clean any vehicle components that come into contact with salt water"
+            }
+          ],
+          "id": 0,
+          "question": "How do you clean a car?"
+        }
+      ]
+    },
+    {
+      "context": "If possible, avoid driving through salt water because it increases the risk of corrosion. Use fresh water to clean any vehicle components that come into contact with salt water. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "come into contact with salt water"
+            }
+          ],
+          "id": 0,
+          "question": "How do you clean your vehicle?"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "context": "When driving on poor roads, over curbs, and on steep ramps, make sure that components that hang below the vehicle, such as the spoiler and exhaust system, are not struck because they could be damaged. This especially applies to vehicles with low ground clearance and vehicles that are heavily loaded. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "driving on poor roads , over curbs , and on steep ramps"
+            }
+          ],
+          "id": 0,
+          "question": "What are the most common problems driving on poor roads??"
+        }
+      ]
+    },
+    {
+      "context": "When driving on poor roads, over curbs, and on steep ramps, make sure that components that hang below the vehicle, such as the spoiler and exhaust system, are not struck because they could be damaged. This especially applies to vehicles with low ground clearance and vehicles that are heavily loaded. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "make sure that components that hang below the vehicle , such as the spoiler and exhaust system , are not struck because they could be damaged"
+            }
+          ],
+          "id": 0,
+          "question": "What should you do when driving on poor roads??"
+        }
+      ]
+    },
+    {
+      "context": "When driving on poor roads, over curbs, and on steep ramps, make sure that components that hang below the vehicle, such as the spoiler and exhaust system, are not struck because they could be damaged. This especially applies to vehicles with low ground clearance and vehicles that are heavily loaded. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "hang below the vehicle"
+            }
+          ],
+          "id": 0,
+          "question": "What should be done to prevent components from being struck??"
+        }
+      ]
+    },
+    {
+      "context": "When driving on poor roads, over curbs, and on steep ramps, make sure that components that hang below the vehicle, such as the spoiler and exhaust system, are not struck because they could be damaged. This especially applies to vehicles with low ground clearance and vehicles that are heavily loaded. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "are not struck because they could be damaged"
+            }
+          ],
+          "id": 0,
+          "question": "Why should components that hang below the vehicle be avoided??"
+        }
+      ]
+    },
+    {
+      "context": "When driving on poor roads, over curbs, and on steep ramps, make sure that components that hang below the vehicle, such as the spoiler and exhaust system, are not struck because they could be damaged. This especially applies to vehicles with low ground clearance and vehicles that are heavily loaded. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "struck because they could be damaged"
+            }
+          ],
+          "id": 0,
+          "question": "Why are components that hang below the vehicle not struck??"
+        }
+      ]
+    },
+    {
+      "context": "When driving on poor roads, over curbs, and on steep ramps, make sure that components that hang below the vehicle, such as the spoiler and exhaust system, are not struck because they could be damaged. This especially applies to vehicles with low ground clearance and vehicles that are heavily loaded. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "could be damaged"
+            }
+          ],
+          "id": 0,
+          "question": "What components should be avoided when driving on poor roads??"
+        }
+      ]
+    },
+    {
+      "context": "When driving on poor roads, over curbs, and on steep ramps, make sure that components that hang below the vehicle, such as the spoiler and exhaust system, are not struck because they could be damaged. This especially applies to vehicles with low ground clearance and vehicles that are heavily loaded. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "be damaged"
+            }
+          ],
+          "id": 0,
+          "question": "What can be done to prevent components that hang below the vehicle from being struck??"
+        }
+      ]
+    },
+    {
+      "context": "When driving on poor roads, over curbs, and on steep ramps, make sure that components that hang below the vehicle, such as the spoiler and exhaust system, are not struck because they could be damaged. This especially applies to vehicles with low ground clearance and vehicles that are heavily loaded. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "damaged"
+            }
+          ],
+          "id": 0,
+          "question": "What can be done to prevent a vehicle from being hit by a vehicle??"
+        }
+      ]
+    },
+    {
+      "context": "When driving on poor roads, over curbs, and on steep ramps, make sure that components that hang below the vehicle, such as the spoiler and exhaust system, are not struck because they could be damaged. This especially applies to vehicles with low ground clearance and vehicles that are heavily loaded. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "applies to vehicles with low ground clearance and vehicles that are heavily loaded"
+            }
+          ],
+          "id": 0,
+          "question": "What is the best way to avoid damage??"
+        }
+      ]
+    },
+    {
+      "context": "When driving on poor roads, over curbs, and on steep ramps, make sure that components that hang below the vehicle, such as the spoiler and exhaust system, are not struck because they could be damaged. This especially applies to vehicles with low ground clearance and vehicles that are heavily loaded. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "are heavily loaded"
+            }
+          ],
+          "id": 0,
+          "question": "What type of vehicles are prone to damage??"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "context": "The amount of noise produced by the vehicle can increase significantly when driving with a sporty style. Show respect to others around you and the environment with the way you operate your vehicle, especially at night. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "produced by the vehicle"
+            }
+          ],
+          "id": 0,
+          "question": "What is the noise level of the vehicle??"
+        }
+      ]
+    },
+    {
+      "context": "The amount of noise produced by the vehicle can increase significantly when driving with a sporty style. Show respect to others around you and the environment with the way you operate your vehicle, especially at night. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "can increase significantly when driving with a sporty style"
+            },
+            {
+              "answer_start": "",
+              "text": "increase significantly when driving with a sporty style"
+            }
+          ],
+          "id": 0,
+          "question": "How much noise can be produced by the vehicle??"
+        }
+      ]
+    },
+    {
+      "context": "The amount of noise produced by the vehicle can increase significantly when driving with a sporty style. Show respect to others around you and the environment with the way you operate your vehicle, especially at night. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "driving with a sporty style"
+            }
+          ],
+          "id": 0,
+          "question": "What is the best way to reduce noise in your vehicle??"
+        }
+      ]
+    },
+    {
+      "context": "The amount of noise produced by the vehicle can increase significantly when driving with a sporty style. Show respect to others around you and the environment with the way you operate your vehicle, especially at night. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "Show respect to others around you and the environment with the way you operate your vehicle , especially at night"
+            }
+          ],
+          "id": 0,
+          "question": "what is the best way to drive a sporty car??"
+        }
+      ]
+    },
+    {
+      "context": "The amount of noise produced by the vehicle can increase significantly when driving with a sporty style. Show respect to others around you and the environment with the way you operate your vehicle, especially at night. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "operate your vehicle , especially at night"
+            }
+          ],
+          "id": 0,
+          "question": "How do you drive??"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "context": "Never turn off the engine before the vehicle has come to a complete stop. Switching it off before the vehicle has stopped may impair the function of the brake booster and power steering. You may need to use more force when braking or steering. Because you cannot brake and steer as you usually would, this could lead to accidents and serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "turn off the engine before the vehicle has come to a complete stop"
+            }
+          ],
+          "id": 0,
+          "question": "When should I turn off the engine??"
+        }
+      ]
+    },
+    {
+      "context": "Never turn off the engine before the vehicle has come to a complete stop. Switching it off before the vehicle has stopped may impair the function of the brake booster and power steering. You may need to use more force when braking or steering. Because you cannot brake and steer as you usually would, this could lead to accidents and serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "has come to a complete stop"
+            },
+            {
+              "answer_start": "",
+              "text": "has stopped"
+            },
+            {
+              "answer_start": "",
+              "text": "stopped"
+            }
+          ],
+          "id": 0,
+          "question": "When should you turn off the engine before the vehicle has come to a complete stop?"
+        }
+      ]
+    },
+    {
+      "context": "Never turn off the engine before the vehicle has come to a complete stop. Switching it off before the vehicle has stopped may impair the function of the brake booster and power steering. You may need to use more force when braking or steering. Because you cannot brake and steer as you usually would, this could lead to accidents and serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "come to a complete stop"
+            }
+          ],
+          "id": 0,
+          "question": "When should the vehicle be turned off??"
+        }
+      ]
+    },
+    {
+      "context": "Never turn off the engine before the vehicle has come to a complete stop. Switching it off before the vehicle has stopped may impair the function of the brake booster and power steering. You may need to use more force when braking or steering. Because you cannot brake and steer as you usually would, this could lead to accidents and serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "Switching it off before the vehicle has stopped"
+            }
+          ],
+          "id": 0,
+          "question": "How do you stop the vehicle??"
+        }
+      ]
+    },
+    {
+      "context": "Never turn off the engine before the vehicle has come to a complete stop. Switching it off before the vehicle has stopped may impair the function of the brake booster and power steering. You may need to use more force when braking or steering. Because you cannot brake and steer as you usually would, this could lead to accidents and serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "may impair the function of the brake booster and power steering"
+            },
+            {
+              "answer_start": "",
+              "text": "impair the function of the brake booster and power steering"
+            },
+            {
+              "answer_start": "",
+              "text": "may need to use more force when braking or steering"
+            },
+            {
+              "answer_start": "",
+              "text": "need to use more force when braking or steering"
+            },
+            {
+              "answer_start": "",
+              "text": "to use more force when braking or steering"
+            },
+            {
+              "answer_start": "",
+              "text": "use more force when braking or steering"
+            },
+            {
+              "answer_start": "",
+              "text": "braking or steering"
+            }
+          ],
+          "id": 0,
+          "question": "What is the best way to stop a car??"
+        }
+      ]
+    },
+    {
+      "context": "Never turn off the engine before the vehicle has come to a complete stop. Switching it off before the vehicle has stopped may impair the function of the brake booster and power steering. You may need to use more force when braking or steering. Because you cannot brake and steer as you usually would, this could lead to accidents and serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "can not brake and steer as you usually would"
+            }
+          ],
+          "id": 0,
+          "question": "Why do you need to use more force when braking??"
+        }
+      ]
+    },
+    {
+      "context": "Never turn off the engine before the vehicle has come to a complete stop. Switching it off before the vehicle has stopped may impair the function of the brake booster and power steering. You may need to use more force when braking or steering. Because you cannot brake and steer as you usually would, this could lead to accidents and serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "brake and steer as you usually would"
+            }
+          ],
+          "id": 0,
+          "question": "What do you do when you brake??"
+        }
+      ]
+    },
+    {
+      "context": "Never turn off the engine before the vehicle has come to a complete stop. Switching it off before the vehicle has stopped may impair the function of the brake booster and power steering. You may need to use more force when braking or steering. Because you cannot brake and steer as you usually would, this could lead to accidents and serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "would"
+            }
+          ],
+          "id": 0,
+          "question": "What is the best way to brake a car??"
+        }
+      ]
+    },
+    {
+      "context": "Never turn off the engine before the vehicle has come to a complete stop. Switching it off before the vehicle has stopped may impair the function of the brake booster and power steering. You may need to use more force when braking or steering. Because you cannot brake and steer as you usually would, this could lead to accidents and serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "could lead to accidents and serious injuries"
+            }
+          ],
+          "id": 0,
+          "question": "What can be done to prevent a crash??"
+        }
+      ]
+    },
+    {
+      "context": "Never turn off the engine before the vehicle has come to a complete stop. Switching it off before the vehicle has stopped may impair the function of the brake booster and power steering. You may need to use more force when braking or steering. Because you cannot brake and steer as you usually would, this could lead to accidents and serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "lead to accidents and serious injuries"
+            }
+          ],
+          "id": 0,
+          "question": "What could be the consequences of turning off the engine before the vehicle has come to a complete"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "context": "If you leave the vehicle, switch the ignition off and take the vehicle key with you. If you do not do this, the engine could be started and electrical equipment such as the power windows could be activated. This can lead to serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "leave the vehicle"
+            }
+          ],
+          "id": 0,
+          "question": "What can be done to prevent a serious injury?"
+        }
+      ]
+    },
+    {
+      "context": "If you leave the vehicle, switch the ignition off and take the vehicle key with you. If you do not do this, the engine could be started and electrical equipment such as the power windows could be activated. This can lead to serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "switch the ignition off and take the vehicle key with you"
+            },
+            {
+              "answer_start": "",
+              "text": "take the vehicle key with you"
+            },
+            {
+              "answer_start": "",
+              "text": "do this"
+            },
+            {
+              "answer_start": "",
+              "text": "be started"
+            },
+            {
+              "answer_start": "",
+              "text": "could be activated"
+            }
+          ],
+          "id": 0,
+          "question": "What can be done to prevent the engine from starting??"
+        }
+      ]
+    },
+    {
+      "context": "If you leave the vehicle, switch the ignition off and take the vehicle key with you. If you do not do this, the engine could be started and electrical equipment such as the power windows could be activated. This can lead to serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "switch the ignition off"
+            }
+          ],
+          "id": 0,
+          "question": "What can be done to prevent the ignition from being switched off??"
+        }
+      ]
+    },
+    {
+      "context": "If you leave the vehicle, switch the ignition off and take the vehicle key with you. If you do not do this, the engine could be started and electrical equipment such as the power windows could be activated. This can lead to serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "do not do this"
+            }
+          ],
+          "id": 0,
+          "question": "Do you leave the vehicle??"
+        }
+      ]
+    },
+    {
+      "context": "If you leave the vehicle, switch the ignition off and take the vehicle key with you. If you do not do this, the engine could be started and electrical equipment such as the power windows could be activated. This can lead to serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "could be started"
+            }
+          ],
+          "id": 0,
+          "question": "What can happen if the engine is not started??"
+        }
+      ]
+    },
+    {
+      "context": "If you leave the vehicle, switch the ignition off and take the vehicle key with you. If you do not do this, the engine could be started and electrical equipment such as the power windows could be activated. This can lead to serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "started"
+            }
+          ],
+          "id": 0,
+          "question": "What can be done to stop the engine from starting??"
+        }
+      ]
+    },
+    {
+      "context": "If you leave the vehicle, switch the ignition off and take the vehicle key with you. If you do not do this, the engine could be started and electrical equipment such as the power windows could be activated. This can lead to serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "be activated"
+            }
+          ],
+          "id": 0,
+          "question": "What can be done to prevent the ignition from being activated??"
+        }
+      ]
+    },
+    {
+      "context": "If you leave the vehicle, switch the ignition off and take the vehicle key with you. If you do not do this, the engine could be started and electrical equipment such as the power windows could be activated. This can lead to serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "activated"
+            }
+          ],
+          "id": 0,
+          "question": "What is the best way to start the car??"
+        }
+      ]
+    },
+    {
+      "context": "If you leave the vehicle, switch the ignition off and take the vehicle key with you. If you do not do this, the engine could be started and electrical equipment such as the power windows could be activated. This can lead to serious injuries.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "can lead to serious injuries"
+            },
+            {
+              "answer_start": "",
+              "text": "lead to serious injuries"
+            }
+          ],
+          "id": 0,
+          "question": "What can happen if you leave the vehicle??"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "context": "For safety reasons, always park the vehicle with the selector lever in the P position. Otherwise, there is the risk that the vehicle could roll unintentionally. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "park the vehicle with the selector lever in the P position"
+            }
+          ],
+          "id": 0,
+          "question": "where should the vehicle be parked??"
+        }
+      ]
+    },
+    {
+      "context": "For safety reasons, always park the vehicle with the selector lever in the P position. Otherwise, there is the risk that the vehicle could roll unintentionally. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "is the risk that the vehicle could roll unintentionally"
+            }
+          ],
+          "id": 0,
+          "question": "what is the risk that the vehicle could roll unintentionally??"
+        }
+      ]
+    },
+    {
+      "context": "For safety reasons, always park the vehicle with the selector lever in the P position. Otherwise, there is the risk that the vehicle could roll unintentionally. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "could roll unintentionally"
+            }
+          ],
+          "id": 0,
+          "question": "What is the risk of the vehicle rolling unintentionally?"
+        }
+      ]
+    },
+    {
+      "context": "For safety reasons, always park the vehicle with the selector lever in the P position. Otherwise, there is the risk that the vehicle could roll unintentionally. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "roll unintentionally"
+            }
+          ],
+          "id": 0,
+          "question": ""
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "context": "If the engine has been under heavy load for an extended period of time, heat builds up in the engine compartment after the engine is switched off and there is a risk of damaging the engine. For this reason, let the engine run at idle for approximately two minutes before shutting it off.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "has been under heavy load for an extended period of time"
+            }
+          ],
+          "id": 0,
+          "question": "How long does it take to shut off the engine??"
+        }
+      ]
+    },
+    {
+      "context": "If the engine has been under heavy load for an extended period of time, heat builds up in the engine compartment after the engine is switched off and there is a risk of damaging the engine. For this reason, let the engine run at idle for approximately two minutes before shutting it off.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "been under heavy load for an extended period of time"
+            }
+          ],
+          "id": 0,
+          "question": "How long has the engine been under heavy load??"
+        }
+      ]
+    },
+    {
+      "context": "If the engine has been under heavy load for an extended period of time, heat builds up in the engine compartment after the engine is switched off and there is a risk of damaging the engine. For this reason, let the engine run at idle for approximately two minutes before shutting it off.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "builds up in the engine compartment after the engine is switched off"
+            }
+          ],
+          "id": 0,
+          "question": "How long does it take to turn off the engine??"
+        }
+      ]
+    },
+    {
+      "context": "If the engine has been under heavy load for an extended period of time, heat builds up in the engine compartment after the engine is switched off and there is a risk of damaging the engine. For this reason, let the engine run at idle for approximately two minutes before shutting it off.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "is switched off"
+            }
+          ],
+          "id": 0,
+          "question": "When is the engine switched off??"
+        }
+      ]
+    },
+    {
+      "context": "If the engine has been under heavy load for an extended period of time, heat builds up in the engine compartment after the engine is switched off and there is a risk of damaging the engine. For this reason, let the engine run at idle for approximately two minutes before shutting it off.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "switched off"
+            }
+          ],
+          "id": 0,
+          "question": "How long before the engine is switched off??"
+        }
+      ]
+    },
+    {
+      "context": "If the engine has been under heavy load for an extended period of time, heat builds up in the engine compartment after the engine is switched off and there is a risk of damaging the engine. For this reason, let the engine run at idle for approximately two minutes before shutting it off.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "is a risk of damaging the engine"
+            }
+          ],
+          "id": 0,
+          "question": "What is the risk of damaging the engine??"
+        }
+      ]
+    },
+    {
+      "context": "If the engine has been under heavy load for an extended period of time, heat builds up in the engine compartment after the engine is switched off and there is a risk of damaging the engine. For this reason, let the engine run at idle for approximately two minutes before shutting it off.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "damaging the engine"
+            }
+          ],
+          "id": 0,
+          "question": "What is the risk of the engine being damaged??"
+        }
+      ]
+    },
+    {
+      "context": "If the engine has been under heavy load for an extended period of time, heat builds up in the engine compartment after the engine is switched off and there is a risk of damaging the engine. For this reason, let the engine run at idle for approximately two minutes before shutting it off.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "let the engine run at idle for approximately two minutes before shutting it off"
+            },
+            {
+              "answer_start": "",
+              "text": "run at idle for approximately two minutes before shutting it off"
+            }
+          ],
+          "id": 0,
+          "question": "How long should the engine run at idle??"
+        }
+      ]
+    },
+    {
+      "context": "If the engine has been under heavy load for an extended period of time, heat builds up in the engine compartment after the engine is switched off and there is a risk of damaging the engine. For this reason, let the engine run at idle for approximately two minutes before shutting it off.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "shutting it off"
+            }
+          ],
+          "id": 0,
+          "question": "How long before you shut off the engine??"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "context": "it may not be possible to start the engine under certain circumstances, for example, if the battery in the vehicle key is drained, if interference is affecting the key or if there is a system malfunction. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "may not be possible to start the engine under certain circumstances , for example , if the battery in the vehicle key is drained , if interference is affecting the key or if there is a system malfunction"
+            }
+          ],
+          "id": 0,
+          "question": "under what circumstances?? if the battery in the vehicle key is drained?"
+        }
+      ]
+    },
+    {
+      "context": "it may not be possible to start the engine under certain circumstances, for example, if the battery in the vehicle key is drained, if interference is affecting the key or if there is a system malfunction. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "be possible to start the engine under certain circumstances , for example , if the battery in the vehicle key is drained , if interference is affecting the key or if there is a system malfunction"
+            }
+          ],
+          "id": 0,
+          "question": "is it possible to start the engine under certain circumstances??"
+        }
+      ]
+    },
+    {
+      "context": "it may not be possible to start the engine under certain circumstances, for example, if the battery in the vehicle key is drained, if interference is affecting the key or if there is a system malfunction. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "to start the engine under certain circumstances"
+            }
+          ],
+          "id": 0,
+          "question": "under what circumstances????????"
+        }
+      ]
+    },
+    {
+      "context": "it may not be possible to start the engine under certain circumstances, for example, if the battery in the vehicle key is drained, if interference is affecting the key or if there is a system malfunction. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "to start the engine"
+            }
+          ],
+          "id": 0,
+          "question": "is it possible to start the engine??"
+        }
+      ]
+    },
+    {
+      "context": "it may not be possible to start the engine under certain circumstances, for example, if the battery in the vehicle key is drained, if interference is affecting the key or if there is a system malfunction. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "is drained"
+            }
+          ],
+          "id": 0,
+          "question": "is the battery in the key drained?????"
+        }
+      ]
+    },
+    {
+      "context": "it may not be possible to start the engine under certain circumstances, for example, if the battery in the vehicle key is drained, if interference is affecting the key or if there is a system malfunction. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "drained"
+            }
+          ],
+          "id": 0,
+          "question": "When the battery in the vehicle key is drained, or if interference is affecting"
+        }
+      ]
+    },
+    {
+      "context": "it may not be possible to start the engine under certain circumstances, for example, if the battery in the vehicle key is drained, if interference is affecting the key or if there is a system malfunction. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "is affecting the key"
+            }
+          ],
+          "id": 0,
+          "question": "is the battery drained? if interference is affecting the key?"
+        }
+      ]
+    },
+    {
+      "context": "it may not be possible to start the engine under certain circumstances, for example, if the battery in the vehicle key is drained, if interference is affecting the key or if there is a system malfunction. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "affecting the key"
+            }
+          ],
+          "id": 0,
+          "question": "What is the problem with starting the engine??"
+        }
+      ]
+    },
+    {
+      "context": "it may not be possible to start the engine under certain circumstances, for example, if the battery in the vehicle key is drained, if interference is affecting the key or if there is a system malfunction. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "is a system malfunction"
+            }
+          ],
+          "id": 0,
+          "question": "what is the problem with the engine??"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "context": "You can control if the engine will stop or not by reducing or increasing the amount of force you use to press the brake pedal. For example, if you only lightly press on the brake pedal in stop-andgo traffic or when turning, the engine will not switch off when the vehicle is stationary. If you press the brake pedal harder, the engine will switch off. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "can control if the engine will stop or not by reducing or increasing the amount of force you use to press the brake pedal"
+            }
+          ],
+          "id": 0,
+          "question": "how do you control if the engine will stop??"
+        }
+      ]
+    },
+    {
+      "context": "You can control if the engine will stop or not by reducing or increasing the amount of force you use to press the brake pedal. For example, if you only lightly press on the brake pedal in stop-andgo traffic or when turning, the engine will not switch off when the vehicle is stationary. If you press the brake pedal harder, the engine will switch off. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "control if the engine will stop or not by reducing or increasing the amount of force you use to press the brake pedal"
+            }
+          ],
+          "id": 0,
+          "question": "how can i control if the engine stops??"
+        }
+      ]
+    },
+    {
+      "context": "You can control if the engine will stop or not by reducing or increasing the amount of force you use to press the brake pedal. For example, if you only lightly press on the brake pedal in stop-andgo traffic or when turning, the engine will not switch off when the vehicle is stationary. If you press the brake pedal harder, the engine will switch off. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "will stop"
+            },
+            {
+              "answer_start": "",
+              "text": "will switch off"
+            }
+          ],
+          "id": 0,
+          "question": "Does the engine stop when the vehicle is stationary??"
+        }
+      ]
+    },
+    {
+      "context": "You can control if the engine will stop or not by reducing or increasing the amount of force you use to press the brake pedal. For example, if you only lightly press on the brake pedal in stop-andgo traffic or when turning, the engine will not switch off when the vehicle is stationary. If you press the brake pedal harder, the engine will switch off. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "stop"
+            }
+          ],
+          "id": 0,
+          "question": "How do you control if the engine will stop??"
+        }
+      ]
+    },
+    {
+      "context": "You can control if the engine will stop or not by reducing or increasing the amount of force you use to press the brake pedal. For example, if you only lightly press on the brake pedal in stop-andgo traffic or when turning, the engine will not switch off when the vehicle is stationary. If you press the brake pedal harder, the engine will switch off. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "reducing or increasing the amount of force you use to press the brake pedal"
+            }
+          ],
+          "id": 0,
+          "question": "How can you control if the engine will stop or not??"
+        }
+      ]
+    },
+    {
+      "context": "You can control if the engine will stop or not by reducing or increasing the amount of force you use to press the brake pedal. For example, if you only lightly press on the brake pedal in stop-andgo traffic or when turning, the engine will not switch off when the vehicle is stationary. If you press the brake pedal harder, the engine will switch off. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "use to press the brake pedal"
+            }
+          ],
+          "id": 0,
+          "question": "What force do you use to press the brake pedal??"
+        }
+      ]
+    },
+    {
+      "context": "You can control if the engine will stop or not by reducing or increasing the amount of force you use to press the brake pedal. For example, if you only lightly press on the brake pedal in stop-andgo traffic or when turning, the engine will not switch off when the vehicle is stationary. If you press the brake pedal harder, the engine will switch off. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "to press the brake pedal"
+            },
+            {
+              "answer_start": "",
+              "text": "press the brake pedal"
+            }
+          ],
+          "id": 0,
+          "question": "What is the best way to control if the engine will stop??"
+        }
+      ]
+    },
+    {
+      "context": "You can control if the engine will stop or not by reducing or increasing the amount of force you use to press the brake pedal. For example, if you only lightly press on the brake pedal in stop-andgo traffic or when turning, the engine will not switch off when the vehicle is stationary. If you press the brake pedal harder, the engine will switch off. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "press on the brake pedal in stop-andgo traffic or when turning"
+            },
+            {
+              "answer_start": "",
+              "text": "turning"
+            },
+            {
+              "answer_start": "",
+              "text": "will not switch off when the vehicle is stationary"
+            },
+            {
+              "answer_start": "",
+              "text": "is stationary"
+            }
+          ],
+          "id": 0,
+          "question": "When does the engine stop??"
+        }
+      ]
+    },
+    {
+      "context": "You can control if the engine will stop or not by reducing or increasing the amount of force you use to press the brake pedal. For example, if you only lightly press on the brake pedal in stop-andgo traffic or when turning, the engine will not switch off when the vehicle is stationary. If you press the brake pedal harder, the engine will switch off. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "switch off when the vehicle is stationary"
+            }
+          ],
+          "id": 0,
+          "question": "When does the engine switch off??"
+        }
+      ]
+    },
+    {
+      "context": "You can control if the engine will stop or not by reducing or increasing the amount of force you use to press the brake pedal. For example, if you only lightly press on the brake pedal in stop-andgo traffic or when turning, the engine will not switch off when the vehicle is stationary. If you press the brake pedal harder, the engine will switch off. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "press the brake pedal harder"
+            }
+          ],
+          "id": 0,
+          "question": "What can you control if the engine will stop??"
+        }
+      ]
+    },
+    {
+      "context": "You can control if the engine will stop or not by reducing or increasing the amount of force you use to press the brake pedal. For example, if you only lightly press on the brake pedal in stop-andgo traffic or when turning, the engine will not switch off when the vehicle is stationary. If you press the brake pedal harder, the engine will switch off. ",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "switch off"
+            }
+          ],
+          "id": 0,
+          "question": "Does the engine switch off when the vehicle is stationary??"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "context": "Start/stop system: deactivated. Please start engine manually. This message appears when specific conditions are not met during a Stop phase. The Start/Stop system will not be able to restart the engine. The engine must be started manually.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "start engine manually"
+            }
+          ],
+          "id": 0,
+          "question": "how to start engine manually??"
+        }
+      ]
+    },
+    {
+      "context": "Start/stop system: deactivated. Please start engine manually. This message appears when specific conditions are not met during a Stop phase. The Start/Stop system will not be able to restart the engine. The engine must be started manually.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "appears when specific conditions are not met during a Stop phase"
+            }
+          ],
+          "id": 0,
+          "question": "When is the engine stopped??"
+        }
+      ]
+    },
+    {
+      "context": "Start/stop system: deactivated. Please start engine manually. This message appears when specific conditions are not met during a Stop phase. The Start/Stop system will not be able to restart the engine. The engine must be started manually.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "are not met during a Stop phase"
+            }
+          ],
+          "id": 0,
+          "question": "When specific conditions are not met during a Stop phase, please start the engine manually."
+        }
+      ]
+    },
+    {
+      "context": "Start/stop system: deactivated. Please start engine manually. This message appears when specific conditions are not met during a Stop phase. The Start/Stop system will not be able to restart the engine. The engine must be started manually.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "met during a Stop phase"
+            }
+          ],
+          "id": 0,
+          "question": "When specific conditions are not met during a Stop phase, what is the message??"
+        }
+      ]
+    },
+    {
+      "context": "Start/stop system: deactivated. Please start engine manually. This message appears when specific conditions are not met during a Stop phase. The Start/Stop system will not be able to restart the engine. The engine must be started manually.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "will not be able to restart the engine"
+            },
+            {
+              "answer_start": "",
+              "text": "restart the engine"
+            }
+          ],
+          "id": 0,
+          "question": "What is the status of the engine??"
+        }
+      ]
+    },
+    {
+      "context": "Start/stop system: deactivated. Please start engine manually. This message appears when specific conditions are not met during a Stop phase. The Start/Stop system will not be able to restart the engine. The engine must be started manually.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "be able to restart the engine"
+            }
+          ],
+          "id": 0,
+          "question": "will the start/stop system be able to restart the engine??"
+        }
+      ]
+    },
+    {
+      "context": "Start/stop system: deactivated. Please start engine manually. This message appears when specific conditions are not met during a Stop phase. The Start/Stop system will not be able to restart the engine. The engine must be started manually.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "to restart the engine"
+            }
+          ],
+          "id": 0,
+          "question": "What is the best way to start the engine?"
+        }
+      ]
+    },
+    {
+      "context": "Start/stop system: deactivated. Please start engine manually. This message appears when specific conditions are not met during a Stop phase. The Start/Stop system will not be able to restart the engine. The engine must be started manually.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "must be started manually"
+            }
+          ],
+          "id": 0,
+          "question": "How do I start the engine??"
+        }
+      ]
+    },
+    {
+      "context": "Start/stop system: deactivated. Please start engine manually. This message appears when specific conditions are not met during a Stop phase. The Start/Stop system will not be able to restart the engine. The engine must be started manually.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "be started manually"
+            }
+          ],
+          "id": 0,
+          "question": "how can the engine be started manually??"
+        }
+      ]
+    },
+    {
+      "context": "Start/stop system: deactivated. Please start engine manually. This message appears when specific conditions are not met during a Stop phase. The Start/Stop system will not be able to restart the engine. The engine must be started manually.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "started manually"
+            }
+          ],
+          "id": 0,
+          "question": "How do I start the engine?"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "context": "Start/stop system: malfunction! Function unavailable. There is a malfunction in the Start/Stop system. Drive the vehicle to an authorized Audi dealer or authorized Service Facility as soon as possible to have the malfunction corrected.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "is a malfunction in the Start/Stop system"
+            }
+          ],
+          "id": 0,
+          "question": "what is the start/stop system????????"
+        }
+      ]
+    },
+    {
+      "context": "Start/stop system: malfunction! Function unavailable. There is a malfunction in the Start/Stop system. Drive the vehicle to an authorized Audi dealer or authorized Service Facility as soon as possible to have the malfunction corrected.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "Drive the vehicle to an authorized Audi dealer or authorized Service Facility as soon as possible to have the malfunction corrected"
+            }
+          ],
+          "id": 0,
+          "question": "how to fix a audi start/stop??"
+        }
+      ]
+    },
+    {
+      "context": "Start/stop system: malfunction! Function unavailable. There is a malfunction in the Start/Stop system. Drive the vehicle to an authorized Audi dealer or authorized Service Facility as soon as possible to have the malfunction corrected.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "to have the malfunction corrected"
+            }
+          ],
+          "id": 0,
+          "question": "How do I get the Audi Start/Stop system fixed??"
+        }
+      ]
+    },
+    {
+      "context": "Start/stop system: malfunction! Function unavailable. There is a malfunction in the Start/Stop system. Drive the vehicle to an authorized Audi dealer or authorized Service Facility as soon as possible to have the malfunction corrected.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "have the malfunction corrected"
+            }
+          ],
+          "id": 0,
+          "question": "what should be done to fix the problem??"
+        }
+      ]
+    },
+    {
+      "context": "Start/stop system: malfunction! Function unavailable. There is a malfunction in the Start/Stop system. Drive the vehicle to an authorized Audi dealer or authorized Service Facility as soon as possible to have the malfunction corrected.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": "",
+              "text": "corrected"
+            }
+          ],
+          "id": 0,
+          "question": "What should be done to fix the problem?"
+        }
+      ]
+    }
+  ]
+]

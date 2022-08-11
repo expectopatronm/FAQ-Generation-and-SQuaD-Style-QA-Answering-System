@@ -1,0 +1,1422 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "how much acceleration can be used??",
+              "id": 443858,
+              "answers": [
+                {
+                  "answer_id": 531921,
+                  "document_id": 861817,
+                  "question_id": 443858,
+                  "text": "Do not drive higher than two-thirds of the maximum permitted engine RPM during the first 600 miles (1,000 km) and do not use full acceleration.",
+                  "answer_start": 206,
+                  "answer_end": 349,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "how many miles does the engine travel??",
+              "id": 443859,
+              "answers": [
+                {
+                  "answer_id": 531922,
+                  "document_id": 861817,
+                  "question_id": 443859,
+                  "text": "Do not drive higher than two-thirds of the maximum permitted engine RPM during the first 600 miles (1,000 km)",
+                  "answer_start": 206,
+                  "answer_end": 315,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "how much is the engine rpm??",
+              "id": 443860,
+              "answers": [
+                {
+                  "answer_id": 531923,
+                  "document_id": 861817,
+                  "question_id": 443860,
+                  "text": "drive higher than two-thirds of the maximum permitted engine RPM during the first 600 miles (1,000 km) ",
+                  "answer_start": 213,
+                  "answer_end": 316,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the best way to drive a car?",
+              "id": 443861,
+              "answers": [
+                {
+                  "answer_id": 531924,
+                  "document_id": 861817,
+                  "question_id": 443861,
+                  "text": "do not use full acceleration.",
+                  "answer_start": 320,
+                  "answer_end": 349,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the maximum speed of the engine?",
+              "id": 443862,
+              "answers": [
+                {
+                  "answer_id": 531925,
+                  "document_id": 861817,
+                  "question_id": 443862,
+                  "text": "use full acceleration.",
+                  "answer_start": 327,
+                  "answer_end": 349,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "how much can the engine be increased??",
+              "id": 443863,
+              "answers": [
+                {
+                  "answer_id": 531926,
+                  "document_id": 861817,
+                  "question_id": 443863,
+                  "text": "can be increased RPM gradually during the next 300 miles (S00 km).",
+                  "answer_start": 361,
+                  "answer_end": 427,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "how much can the engine be increased??",
+              "id": 443864,
+              "answers": [
+                {
+                  "answer_id": 531927,
+                  "document_id": 861817,
+                  "question_id": 443864,
+                  "text": "be increased RPM gradually during the next 300 miles (S00 km).",
+                  "answer_start": 365,
+                  "answer_end": 427,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "how much can the engine be increased??",
+              "id": 443865,
+              "answers": [
+                {
+                  "answer_id": 531928,
+                  "document_id": 861817,
+                  "question_id": 443865,
+                  "text": " increased RPM gradually during the next 300 miles (S00 km). ",
+                  "answer_start": 367,
+                  "answer_end": 428,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the warranty for a trailer?",
+              "id": 443866,
+              "answers": [
+                {
+                  "answer_id": 531929,
+                  "document_id": 861817,
+                  "question_id": 443866,
+                  "text": "is not designed for towing a trailer.",
+                  "answer_start": 440,
+                  "answer_end": 477,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the warranty for the Audi?",
+              "id": 443867,
+              "answers": [
+                {
+                  "answer_id": 531930,
+                  "document_id": 861817,
+                  "question_id": 443867,
+                  "text": "not designed for towing a trailer.",
+                  "answer_start": 443,
+                  "answer_end": 477,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the warranty for damage caused by towing a trailer?",
+              "id": 443868,
+              "answers": [
+                {
+                  "answer_id": 531931,
+                  "document_id": 861817,
+                  "question_id": 443868,
+                  "text": "caused by towing a trailer",
+                  "answer_start": 485,
+                  "answer_end": 511,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "is the trailer towing covered by the warranty??",
+              "id": 443869,
+              "answers": [
+                {
+                  "answer_id": 531932,
+                  "document_id": 861817,
+                  "question_id": 443869,
+                  "text": "is not covered by the warranty. ",
+                  "answer_start": 512,
+                  "answer_end": 544,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Why do you need to avoid driving through salt water??",
+              "id": 443870,
+              "answers": [
+                {
+                  "answer_id": 531933,
+                  "document_id": 861817,
+                  "question_id": 443870,
+                  "text": "avoid driving through salt water because it increases the risk of corrosion",
+                  "answer_start": 559,
+                  "answer_end": 634,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How do you avoid a car from corroding?",
+              "id": 443871,
+              "answers": [
+                {
+                  "answer_id": 531934,
+                  "document_id": 861817,
+                  "question_id": 443871,
+                  "text": " driving through salt water",
+                  "answer_start": 564,
+                  "answer_end": 591,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How does salt water affect the vehicle??",
+              "id": 443872,
+              "answers": [
+                {
+                  "answer_id": 531935,
+                  "document_id": 861817,
+                  "question_id": 443872,
+                  "text": "increases the risk of corrosion",
+                  "answer_start": 603,
+                  "answer_end": 634,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How do you clean a car??",
+              "id": 443873,
+              "answers": [
+                {
+                  "answer_id": 531936,
+                  "document_id": 861817,
+                  "question_id": 443873,
+                  "text": " Use\nfresh water to clean any vehicle components",
+                  "answer_start": 635,
+                  "answer_end": 683,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How do you clean a car??",
+              "id": 443874,
+              "answers": [
+                {
+                  "answer_id": 531937,
+                  "document_id": 861817,
+                  "question_id": 443874,
+                  "text": "Use\nfresh water to clean any vehicle components that come into contact with salt water. ",
+                  "answer_start": 636,
+                  "answer_end": 724,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How do you clean a car?",
+              "id": 443875,
+              "answers": [
+                {
+                  "answer_id": 531938,
+                  "document_id": 861817,
+                  "question_id": 443875,
+                  "text": "clean any vehicle components that come into contact with salt water. ",
+                  "answer_start": 655,
+                  "answer_end": 724,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What are the most common problems driving on poor roads?",
+              "id": 443876,
+              "answers": [
+                {
+                  "answer_id": 531939,
+                  "document_id": 861817,
+                  "question_id": 443876,
+                  "text": "driving on poor roads, over curbs, and on steep ramps",
+                  "answer_start": 731,
+                  "answer_end": 784,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What should you do when driving on poor roads??",
+              "id": 443877,
+              "answers": [
+                {
+                  "answer_id": 531940,
+                  "document_id": 861817,
+                  "question_id": 443877,
+                  "text": "make sure that components\nthat hang below the vehicle, such as the spoiler and exhaust system, are not struck because\nthey could be damaged",
+                  "answer_start": 786,
+                  "answer_end": 925,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What should be done to prevent components from being struck??",
+              "id": 443878,
+              "answers": [
+                {
+                  "answer_id": 531941,
+                  "document_id": 861817,
+                  "question_id": 443878,
+                  "text": "hang below the vehicle,",
+                  "answer_start": 817,
+                  "answer_end": 840,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Why should components that hang below the vehicle be avoided??",
+              "id": 443879,
+              "answers": [
+                {
+                  "answer_id": 531942,
+                  "document_id": 861817,
+                  "question_id": 443879,
+                  "text": "are not struck because\nthey could be damaged.",
+                  "answer_start": 881,
+                  "answer_end": 926,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Why are components that hang below the vehicle not struck??",
+              "id": 443880,
+              "answers": [
+                {
+                  "answer_id": 531943,
+                  "document_id": 861817,
+                  "question_id": 443880,
+                  "text": "struck because\nthey could be damaged",
+                  "answer_start": 889,
+                  "answer_end": 925,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What can be done to prevent components that hang below the vehicle from being struck??",
+              "id": 443881,
+              "answers": [
+                {
+                  "answer_id": 531944,
+                  "document_id": 861817,
+                  "question_id": 443881,
+                  "text": "be damaged",
+                  "answer_start": 915,
+                  "answer_end": 925,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the best way to avoid damage??",
+              "id": 443882,
+              "answers": [
+                {
+                  "answer_id": 531945,
+                  "document_id": 861817,
+                  "question_id": 443882,
+                  "text": "applies to vehicles with low ground clearance and vehicles that are heavily loaded. ",
+                  "answer_start": 943,
+                  "answer_end": 1027,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What type of vehicles are prone to damage??",
+              "id": 443883,
+              "answers": [
+                {
+                  "answer_id": 531946,
+                  "document_id": 861817,
+                  "question_id": 443883,
+                  "text": "are heavily loaded.",
+                  "answer_start": 1007,
+                  "answer_end": 1026,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How much noise can be produced by the vehicle??",
+              "id": 443884,
+              "answers": [
+                {
+                  "answer_id": 531947,
+                  "document_id": 861817,
+                  "question_id": 443884,
+                  "text": "can increase significantly when driving with a\nsporty style.",
+                  "answer_start": 1073,
+                  "answer_end": 1133,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How much noise can be produced by the vehicle??",
+              "id": 443885,
+              "answers": [
+                {
+                  "answer_id": 531948,
+                  "document_id": 861817,
+                  "question_id": 443885,
+                  "text": "increase significantly when driving with a\nsporty style",
+                  "answer_start": 1077,
+                  "answer_end": 1132,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is the best way to drive a sporty car??",
+              "id": 443886,
+              "answers": [
+                {
+                  "answer_id": 531949,
+                  "document_id": 861817,
+                  "question_id": 443886,
+                  "text": "Show respect to others around you and the environment with the way you operate your vehicle, especially at night.",
+                  "answer_start": 1134,
+                  "answer_end": 1247,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When should I turn off the engine??",
+              "id": 443887,
+              "answers": [
+                {
+                  "answer_id": 531950,
+                  "document_id": 861817,
+                  "question_id": 443887,
+                  "text": "Never turn off the engine before the vehicle has come to a complete stop.",
+                  "answer_start": 1250,
+                  "answer_end": 1323,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When should I turn off the engine??",
+              "id": 443888,
+              "answers": [
+                {
+                  "answer_id": 531951,
+                  "document_id": 861817,
+                  "question_id": 443888,
+                  "text": "has come to a complete stop",
+                  "answer_start": 1295,
+                  "answer_end": 1322,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When should I turn off the engine??",
+              "id": 443889,
+              "answers": [
+                {
+                  "answer_id": 531952,
+                  "document_id": 861817,
+                  "question_id": 443889,
+                  "text": "complete stop",
+                  "answer_start": 1309,
+                  "answer_end": 1322,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When should the vehicle be turned off?",
+              "id": 443890,
+              "answers": [
+                {
+                  "answer_id": 531953,
+                  "document_id": 861817,
+                  "question_id": 443890,
+                  "text": "come to a complete stop",
+                  "answer_start": 1299,
+                  "answer_end": 1322,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What do you do when you brake??",
+              "id": 443891,
+              "answers": [
+                {
+                  "answer_id": 531954,
+                  "document_id": 861817,
+                  "question_id": 443891,
+                  "text": " brake and steer as you usually would",
+                  "answer_start": 1512,
+                  "answer_end": 1549,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What could be the consequences of turning off the engine before the vehicle has come to a complete",
+              "id": 443892,
+              "answers": [
+                {
+                  "answer_id": 531955,
+                  "document_id": 861817,
+                  "question_id": 443892,
+                  "text": "lead to accidents and serious injuries",
+                  "answer_start": 1562,
+                  "answer_end": 1600,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What can be done to prevent a serious injury?",
+              "id": 443893,
+              "answers": [
+                {
+                  "answer_id": 531956,
+                  "document_id": 861817,
+                  "question_id": 443893,
+                  "text": "leave the vehicle",
+                  "answer_start": 1610,
+                  "answer_end": 1627,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What can be done to prevent the engine from starting??",
+              "id": 443894,
+              "answers": [
+                {
+                  "answer_id": 531957,
+                  "document_id": 861817,
+                  "question_id": 443894,
+                  "text": "switch the ignition off",
+                  "answer_start": 1629,
+                  "answer_end": 1652,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What can be done to prevent the engine from starting??",
+              "id": 443895,
+              "answers": [
+                {
+                  "answer_id": 531958,
+                  "document_id": 861817,
+                  "question_id": 443895,
+                  "text": "take the vehicle key with you",
+                  "answer_start": 1657,
+                  "answer_end": 1686,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What can be done to prevent the ignition from being switched off??",
+              "id": 443896,
+              "answers": [
+                {
+                  "answer_id": 531959,
+                  "document_id": 861817,
+                  "question_id": 443896,
+                  "text": "switch the ignition off and take the vehicle key with you",
+                  "answer_start": 1629,
+                  "answer_end": 1686,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Do you leave the vehicle??",
+              "id": 443897,
+              "answers": [
+                {
+                  "answer_id": 531960,
+                  "document_id": 861817,
+                  "question_id": 443897,
+                  "text": "do not do this",
+                  "answer_start": 1695,
+                  "answer_end": 1709,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What can happen if the engine is not started??",
+              "id": 443898,
+              "answers": [
+                {
+                  "answer_id": 531961,
+                  "document_id": 861817,
+                  "question_id": 443898,
+                  "text": "could be started",
+                  "answer_start": 1722,
+                  "answer_end": 1738,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What can be done to stop the engine from starting??",
+              "id": 443899,
+              "answers": [
+                {
+                  "answer_id": 531962,
+                  "document_id": 861817,
+                  "question_id": 443899,
+                  "text": "started",
+                  "answer_start": 1731,
+                  "answer_end": 1738,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the best way to start the car??",
+              "id": 443900,
+              "answers": [
+                {
+                  "answer_id": 531963,
+                  "document_id": 861817,
+                  "question_id": 443900,
+                  "text": "activated",
+                  "answer_start": 1799,
+                  "answer_end": 1808,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What can happen if you leave the vehicle??",
+              "id": 443901,
+              "answers": [
+                {
+                  "answer_id": 531964,
+                  "document_id": 861817,
+                  "question_id": 443901,
+                  "text": "can lead to serious injuries",
+                  "answer_start": 1815,
+                  "answer_end": 1843,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What can happen if you leave the vehicle??",
+              "id": 443902,
+              "answers": [
+                {
+                  "answer_id": 531965,
+                  "document_id": 861817,
+                  "question_id": 443902,
+                  "text": "lead to serious injuries",
+                  "answer_start": 1819,
+                  "answer_end": 1843,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "where should the vehicle be parked??",
+              "id": 443903,
+              "answers": [
+                {
+                  "answer_id": 531966,
+                  "document_id": 861817,
+                  "question_id": 443903,
+                  "text": "park the vehicle with the selector lever in the P position",
+                  "answer_start": 1873,
+                  "answer_end": 1931,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is the risk that the vehicle could roll unintentionally??",
+              "id": 443904,
+              "answers": [
+                {
+                  "answer_id": 531967,
+                  "document_id": 861817,
+                  "question_id": 443904,
+                  "text": "is the risk that the vehicle could roll unintentionally. ",
+                  "answer_start": 1950,
+                  "answer_end": 2007,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the risk of the vehicle rolling unintentionally?",
+              "id": 443905,
+              "answers": [
+                {
+                  "answer_id": 531968,
+                  "document_id": 861817,
+                  "question_id": 443905,
+                  "text": "could roll unintentionally. ",
+                  "answer_start": 1979,
+                  "answer_end": 2007,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How long does it take to shut off the engine??",
+              "id": 443906,
+              "answers": [
+                {
+                  "answer_id": 531969,
+                  "document_id": 861817,
+                  "question_id": 443906,
+                  "text": "has been under heavy load for an extended period of time",
+                  "answer_start": 2023,
+                  "answer_end": 2079,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How long has the engine been under heavy load??",
+              "id": 443907,
+              "answers": [
+                {
+                  "answer_id": 531970,
+                  "document_id": 861817,
+                  "question_id": 443907,
+                  "text": "been under heavy load for an extended period of time",
+                  "answer_start": 2027,
+                  "answer_end": 2079,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How long does it take to turn off the engine??",
+              "id": 443908,
+              "answers": [
+                {
+                  "answer_id": 531971,
+                  "document_id": 861817,
+                  "question_id": 443908,
+                  "text": "builds up in the engine compartment after the engine is switched off",
+                  "answer_start": 2086,
+                  "answer_end": 2154,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the risk of the engine being damaged??",
+              "id": 443909,
+              "answers": [
+                {
+                  "answer_id": 531972,
+                  "document_id": 861817,
+                  "question_id": 443909,
+                  "text": "damaging\nthe engine",
+                  "answer_start": 2178,
+                  "answer_end": 2197,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How long should the engine run at idle??",
+              "id": 443910,
+              "answers": [
+                {
+                  "answer_id": 531973,
+                  "document_id": 861817,
+                  "question_id": 443910,
+                  "text": " let the engine run at idle for approximately two minutes before\nshutting it off.",
+                  "answer_start": 2215,
+                  "answer_end": 2296,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How long should the engine run at idle??",
+              "id": 443911,
+              "answers": [
+                {
+                  "answer_id": 531974,
+                  "document_id": 861817,
+                  "question_id": 443911,
+                  "text": "run at idle for approximately two minutes before\nshutting it off.",
+                  "answer_start": 2231,
+                  "answer_end": 2296,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "under what circumstances?? if the battery in the vehicle key is drained?",
+              "id": 443912,
+              "answers": [
+                {
+                  "answer_id": 531975,
+                  "document_id": 861817,
+                  "question_id": 443912,
+                  "text": "may not be possible to start the engine under certain circumstances, for example, if the battery in the vehicle key is drained, if interference is affecting the key or if there is a system malfunction",
+                  "answer_start": 2301,
+                  "answer_end": 2501,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "is it possible to start the engine under certain circumstances??",
+              "id": 443913,
+              "answers": [
+                {
+                  "answer_id": 531976,
+                  "document_id": 861817,
+                  "question_id": 443913,
+                  "text": "may not be possible to start the engine under certain circumstances, for example, if the battery in the vehicle key is drained, if interference is affecting the key or if there is a system malfunction. ",
+                  "answer_start": 2301,
+                  "answer_end": 2503,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "under what circumstances?",
+              "id": 443914,
+              "answers": [
+                {
+                  "answer_id": 531977,
+                  "document_id": 861817,
+                  "question_id": 443914,
+                  "text": "under certain circumstances",
+                  "answer_start": 2341,
+                  "answer_end": 2368,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When the battery in the vehicle key is drained, or if interference is affecting",
+              "id": 443915,
+              "answers": [
+                {
+                  "answer_id": 531978,
+                  "document_id": 861817,
+                  "question_id": 443915,
+                  "text": "drained",
+                  "answer_start": 2420,
+                  "answer_end": 2427,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "is the battery drained? if interference is affecting the key?",
+              "id": 443916,
+              "answers": [
+                {
+                  "answer_id": 531979,
+                  "document_id": 861817,
+                  "question_id": 443916,
+                  "text": " if interference is affecting the key",
+                  "answer_start": 2428,
+                  "answer_end": 2465,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the problem with starting the engine??",
+              "id": 443917,
+              "answers": [
+                {
+                  "answer_id": 531980,
+                  "document_id": 861817,
+                  "question_id": 443917,
+                  "text": "affecting the key or if there is a system malfunction",
+                  "answer_start": 2448,
+                  "answer_end": 2501,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is the problem with the engine??",
+              "id": 443918,
+              "answers": [
+                {
+                  "answer_id": 531981,
+                  "document_id": 861817,
+                  "question_id": 443918,
+                  "text": "is a system malfunction",
+                  "answer_start": 2478,
+                  "answer_end": 2501,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "how do you control if the engine will stop??",
+              "id": 443919,
+              "answers": [
+                {
+                  "answer_id": 531982,
+                  "document_id": 861817,
+                  "question_id": 443919,
+                  "text": "can control if the engine will stop or not by reducing or increasing the amount of force you use to press the brake pedal",
+                  "answer_start": 2509,
+                  "answer_end": 2630,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "how can i control if the engine stops??",
+              "id": 443920,
+              "answers": [
+                {
+                  "answer_id": 531983,
+                  "document_id": 861817,
+                  "question_id": 443920,
+                  "text": "control if the engine will stop or not by reducing or increasing the amount of force you use to press the brake pedal",
+                  "answer_start": 2513,
+                  "answer_end": 2630,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Does the engine stop when the vehicle is stationary??",
+              "id": 443921,
+              "answers": [
+                {
+                  "answer_id": 531984,
+                  "document_id": 861817,
+                  "question_id": 443921,
+                  "text": "not switch off when the vehicle is stationary",
+                  "answer_start": 2745,
+                  "answer_end": 2790,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How can you control if the engine will stop or not?",
+              "id": 443922,
+              "answers": [
+                {
+                  "answer_id": 531985,
+                  "document_id": 861817,
+                  "question_id": 443922,
+                  "text": "reducing or increasing the amount of force you use to press the brake pedal",
+                  "answer_start": 2555,
+                  "answer_end": 2630,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What force do you use to press the brake pedal??",
+              "id": 443923,
+              "answers": [
+                {
+                  "answer_id": 531986,
+                  "document_id": 861817,
+                  "question_id": 443923,
+                  "text": "press the brake pedal harder",
+                  "answer_start": 2799,
+                  "answer_end": 2827,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "how many miles does a new vehicle take to break in??",
+              "id": 443851,
+              "answers": [
+                {
+                  "answer_id": 531914,
+                  "document_id": 861817,
+                  "question_id": 443851,
+                  "text": "must be broken in within the first 1,000 miles (1,500 km) so that all moving parts work smoothly together, which helps to increase the service life of the engine and other drive components.",
+                  "answer_start": 14,
+                  "answer_end": 203,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "how many miles does a new vehicle need to be broken in??",
+              "id": 443852,
+              "answers": [
+                {
+                  "answer_id": 531915,
+                  "document_id": 861817,
+                  "question_id": 443852,
+                  "text": "broken in within the first 1,000 miles (1,500 km) so that all moving parts work smoothly together, which helps to increase the service life of the engine and other drive components. \n",
+                  "answer_start": 22,
+                  "answer_end": 205,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How does a new vehicle work??",
+              "id": 443853,
+              "answers": [
+                {
+                  "answer_id": 531916,
+                  "document_id": 861817,
+                  "question_id": 443853,
+                  "text": "work smoothly together, which helps to increase the service life of the engine and other drive components. ",
+                  "answer_start": 97,
+                  "answer_end": 204,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How does a new vehicle work??",
+              "id": 443854,
+              "answers": [
+                {
+                  "answer_id": 531917,
+                  "document_id": 861817,
+                  "question_id": 443854,
+                  "text": "work smoothly together,",
+                  "answer_start": 97,
+                  "answer_end": 120,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the purpose of a new vehicle??",
+              "id": 443855,
+              "answers": [
+                {
+                  "answer_id": 531918,
+                  "document_id": 861817,
+                  "question_id": 443855,
+                  "text": "to increase the service life of the engine and other drive components.",
+                  "answer_start": 133,
+                  "answer_end": 203,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the purpose of a new vehicle??",
+              "id": 443856,
+              "answers": [
+                {
+                  "answer_id": 531919,
+                  "document_id": 861817,
+                  "question_id": 443856,
+                  "text": "to increase the service life of the engine and other drive components. ",
+                  "answer_start": 133,
+                  "answer_end": 204,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How does a new vehicle break in??",
+              "id": 443857,
+              "answers": [
+                {
+                  "answer_id": 531920,
+                  "document_id": 861817,
+                  "question_id": 443857,
+                  "text": "increase the service life of the engine and other drive components.",
+                  "answer_start": 136,
+                  "answer_end": 203,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the best way to control if the engine will stop?",
+              "id": 443924,
+              "answers": [
+                {
+                  "answer_id": 531987,
+                  "document_id": 861817,
+                  "question_id": 443924,
+                  "text": "to press the brake pedal",
+                  "answer_start": 2606,
+                  "answer_end": 2630,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the best way to control if the engine will stop?",
+              "id": 443925,
+              "answers": [
+                {
+                  "answer_id": 531988,
+                  "document_id": 861817,
+                  "question_id": 443925,
+                  "text": "press the brake pedal",
+                  "answer_start": 2609,
+                  "answer_end": 2630,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When does the engine stop?",
+              "id": 443926,
+              "answers": [
+                {
+                  "answer_id": 531989,
+                  "document_id": 861817,
+                  "question_id": 443926,
+                  "text": "press the brake pedal harder, the engine will switch off",
+                  "answer_start": 2799,
+                  "answer_end": 2855,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When does the engine stop?",
+              "id": 443927,
+              "answers": [
+                {
+                  "answer_id": 531990,
+                  "document_id": 861817,
+                  "question_id": 443927,
+                  "text": "will not switch off when the vehicle is stationary",
+                  "answer_start": 2740,
+                  "answer_end": 2790,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What can you control if the engine will stop??",
+              "id": 443928,
+              "answers": [
+                {
+                  "answer_id": 531991,
+                  "document_id": 861817,
+                  "question_id": 443928,
+                  "text": "press the brake pedal harder",
+                  "answer_start": 2799,
+                  "answer_end": 2827,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When is the engine stopped?",
+              "id": 443929,
+              "answers": [
+                {
+                  "answer_id": 531992,
+                  "document_id": 861817,
+                  "question_id": 443929,
+                  "text": "appears when specific conditions are not met during a Stop phase",
+                  "answer_start": 2934,
+                  "answer_end": 2998,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When specific conditions are not met during a Stop phase, please start the engine manually",
+              "id": 443930,
+              "answers": [
+                {
+                  "answer_id": 531993,
+                  "document_id": 861817,
+                  "question_id": 443930,
+                  "text": "are not met during a Stop phase",
+                  "answer_start": 2967,
+                  "answer_end": 2998,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the status of the engine??",
+              "id": 443931,
+              "answers": [
+                {
+                  "answer_id": 531994,
+                  "document_id": 861817,
+                  "question_id": 443931,
+                  "text": "not be able to restart the engine",
+                  "answer_start": 3027,
+                  "answer_end": 3060,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the best way to start the engine?",
+              "id": 443932,
+              "answers": [
+                {
+                  "answer_id": 531995,
+                  "document_id": 861817,
+                  "question_id": 443932,
+                  "text": "to restart the engine",
+                  "answer_start": 3039,
+                  "answer_end": 3060,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How do I start the engine?",
+              "id": 443933,
+              "answers": [
+                {
+                  "answer_id": 531996,
+                  "document_id": 861817,
+                  "question_id": 443933,
+                  "text": "must be started manually",
+                  "answer_start": 3073,
+                  "answer_end": 3097,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How do I start the engine?",
+              "id": 443934,
+              "answers": [
+                {
+                  "answer_id": 531997,
+                  "document_id": 861817,
+                  "question_id": 443934,
+                  "text": "started manually",
+                  "answer_start": 3081,
+                  "answer_end": 3097,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is the start/stop system?",
+              "id": 443935,
+              "answers": [
+                {
+                  "answer_id": 531998,
+                  "document_id": 861817,
+                  "question_id": 443935,
+                  "text": "is a malfunction in the Start/Stop system",
+                  "answer_start": 3160,
+                  "answer_end": 3201,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "how to fix a audi start/stop?",
+              "id": 443936,
+              "answers": [
+                {
+                  "answer_id": 531999,
+                  "document_id": 861817,
+                  "question_id": 443936,
+                  "text": "Drive the vehicle to an authorized Audi dealer or authorized Service Facility as soon as possible to have the malfunction corrected",
+                  "answer_start": 3203,
+                  "answer_end": 3334,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How do I get the Audi Start/Stop system fixed?",
+              "id": 443937,
+              "answers": [
+                {
+                  "answer_id": 532000,
+                  "document_id": 861817,
+                  "question_id": 443937,
+                  "text": "to have the malfunction corrected",
+                  "answer_start": 3301,
+                  "answer_end": 3334,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what should be done to fix the problem?",
+              "id": 443938,
+              "answers": [
+                {
+                  "answer_id": 532001,
+                  "document_id": 861817,
+                  "question_id": 443938,
+                  "text": "have the malfunction corrected",
+                  "answer_start": 3304,
+                  "answer_end": 3334,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "A new vehicle must be broken in within the first 1,000 miles (1,500 km) so that all moving parts work smoothly together, which helps to increase the service life of the engine and other drive components. \n\nDo not drive higher than two-thirds of the maximum permitted engine RPM during the first 600 miles (1,000 km) and do not use full acceleration. The engine can be increased RPM gradually during the next 300 miles (S00 km). \n\nYour Audi is not designed for towing a trailer. Damage caused by towing a trailer is not covered by the warranty. \n\nIf possible, avoid driving through salt water because it increases the risk of corrosion. Use\nfresh water to clean any vehicle components that come into contact with salt water. \n\nWhen driving on poor roads, over curbs, and on steep ramps, make sure that components\nthat hang below the vehicle, such as the spoiler and exhaust system, are not struck because\nthey could be damaged. This especially applies to vehicles with low ground clearance and vehicles that are heavily loaded. \n\nThe amount of noise produced by the vehicle can increase significantly when driving with a\nsporty style. Show respect to others around you and the environment with the way you operate your vehicle, especially at night. \n\nNever turn off the engine before the vehicle has come to a complete stop. Switching it\noff before the vehicle has stopped may impair the function of the brake booster and\npower steering. You may need to use more force when braking or steering. Because you\ncannot brake and steer as you usually would, this could lead to accidents and serious injuries.\n\nIf you leave the vehicle, switch the ignition off and take the vehicle key with you. If you\ndo not do this, the engine could be started and electrical equipment such as the power\nwindows could be activated. This can lead to serious injuries.\n\nFor safety reasons, always park the vehicle with the selector lever in the P position. Otherwise, there is the risk that the vehicle could roll unintentionally. \n\nIf the engine has been under heavy load for an extended period of time, heat builds up in the engine compartment after the engine is switched off and there is a risk of damaging\nthe engine. For this reason, let the engine run at idle for approximately two minutes before\nshutting it off.\n\nit may not be possible to start the engine under certain circumstances, for example, if the battery in the vehicle key is drained, if interference is affecting the key or if there is a system malfunction. \n\nYou can control if the engine will stop or not by reducing or increasing the amount of force you use to press the brake pedal. For example, if you only lightly press on the brake pedal in stop-andgo traffic or when turning, the engine will not switch off when the vehicle is stationary. If you press the brake pedal harder, the engine will switch off. \n\nStart/stop system: deactivated. Please start engine manually. This message appears when specific conditions are not met during a Stop phase. The Start/Stop system will not be able to restart the engine. The engine must be started manually.\n\nStart/stop system: malfunction! Function unavailable. There is a malfunction in the Start/Stop system. Drive the vehicle to an authorized Audi dealer or authorized Service Facility as soon as possible to have the malfunction corrected.",
+          "document_id": 861817
+        }
+      ]
+    }
+  ]
+}

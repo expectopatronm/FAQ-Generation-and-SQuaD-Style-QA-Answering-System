@@ -1,0 +1,8 @@
+# Environments
+venv/
+
+# Python generated
+*.pyc
+
+# Saved Pytorch models
+*.pth
